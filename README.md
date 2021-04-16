@@ -10,7 +10,7 @@ From the formula, and it's individual components, down to every single line of c
 
 So if you want to learn more about the Mandelbrot Set, please visit  [this post](https://breaksome.tech/coding-the-mandelbrot-set-in-p5js/).
 
-##Links
+## Links
  
 The  [Logistic Map](https://github.com/johnnyawesome/LogisticMap) is closely related to the Mandelbrot set. Check out [this Project](https://github.com/johnnyawesome/LogisticMap)
 for the code, and  [this blogpost](https://breaksome.tech/bifurcation-diagram:-coding-a-logistic-map-in-p5js/) to learn more about it.

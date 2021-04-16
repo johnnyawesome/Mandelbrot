@@ -12,6 +12,6 @@ So if you want to learn more about the Mandelbrot Set, please visit  [this post]
 
 ## Links
  
-The  [Logistic Map](https://github.com/johnnyawesome/LogisticMap) is closely related to the Mandelbrot set. Check out [this Project](https://github.com/johnnyawesome/LogisticMap)
+The  [Logistic Map](https://github.com/johnnyawesome/LogisticMap) is very closely related to the Mandelbrot set. Check out [this Project](https://github.com/johnnyawesome/LogisticMap)
 for the code, and  [this blogpost](https://breaksome.tech/bifurcation-diagram:-coding-a-logistic-map-in-p5js/) to learn more about it.
 

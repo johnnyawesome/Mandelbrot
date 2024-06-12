@@ -1,5 +1,5 @@
 # Mandelbrot
-The infamous Mandelbrot Set, coded in P5JS
+The infamous [Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set), coded in [P5JS](https://p5js.org/)
 
 ![Mandelbrot Set](https://raw.githubusercontent.com/johnnyawesome/Mandelbrot/main/Mandelbrot/DemoImages/Mandelbrot%20Set.jpg)
 
